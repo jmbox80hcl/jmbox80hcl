@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh (@jmbox80hcl)
-- 👀 I’m interested in open source and IBM Domino
-- 🌱 I’m currently learning about SPF by reading the RFC and the code
+- 👀 I’m interested in the HCL Domino server, Apache Tika and creating indexes
+- 🌱 I’m currently learning about Apache Tika
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 
 
